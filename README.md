@@ -12,3 +12,4 @@ jwt for auth
 drf APITestCase for testing endpoints
 
 ***
+github link = https://github.com/athfemoiur/bimema_task.git
